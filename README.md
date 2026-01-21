@@ -1,6 +1,6 @@
 # Evaluating Machine Learning Models Against the Black-Scholes Formula for Option Pricing
 
-### Overveiw
+### Overview
 
 The Black-Scholes model is the baseline for option prices, however it is built on assumptions that can lead to inaccuracies when predicting real market values. This project compares this traditional method with modern Machine Learning models (Neural Network and XGBoost) to evaluate how well they capture real-world option prices. By training the models on data from Yahoo Finance, the aim is to investigate whether machine learning models can outperform the Black-Scholes model for predicting option prices.
 
